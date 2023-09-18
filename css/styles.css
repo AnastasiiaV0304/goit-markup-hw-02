@@ -1,0 +1,118 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background: #FFF;
+    
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+
+.logo {
+color: var(--IRIS, #4D5AE5);
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.logo-part {
+    color: var(--NAVY-BLUE, #2E2F42);
+
+}
+.link {
+    color: var(--NAVY-BLUE, #2E2F42);
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+
+.link:hover {
+    color: var(--OCEAN, #404BBF);
+}
+
+.contacts {
+    color: var(--SLATE, #434455);
+        font-family: Roboto;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+
+.contacts:hover {
+    color: var(--OCEAN, #404BBF);
+}
+
+/* Solutions */
+
+.main {
+    background: var(--NAVY-BLUE, #2E2F42);
+}
+
+.main-header {
+    color: var(--WHITE, #FFF);
+        text-align: center;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 1.12px;
+}
+
+.button {
+    border-radius: 4px;
+    background: var(--IRIS, #4D5AE5);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+    color: var(--WHITE, #FFF);
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.64px;
+        cursor: pointer;
+}
+
+.button:hover,
+.button:focus {
+    background-color: var(--OCEAN, #404BBF);
+}
+
+/* Features */
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+} 
+
+.features {
+    color: var(--NAVY-BLUE, #2E2F42);
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+
+.features-description {
+    color: var(--SLATE, #434455);
+        font-family: Roboto;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
