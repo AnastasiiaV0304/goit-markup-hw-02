@@ -15,7 +15,7 @@ a {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.16;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -28,7 +28,7 @@ a {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -40,7 +40,7 @@ a {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -60,7 +60,7 @@ a {
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 1.07;
   letter-spacing: 1.12px;
 }
 
@@ -73,7 +73,7 @@ a {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.64px;
   cursor: pointer;
 }
@@ -103,7 +103,7 @@ a {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 
@@ -111,7 +111,7 @@ a {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -121,7 +121,7 @@ a {
   font-family: Roboto;
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -136,7 +136,7 @@ a {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 
@@ -145,7 +145,7 @@ a {
   text-align: center;
   font-family: Roboto;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -154,7 +154,7 @@ a {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.4px;
 }
 
@@ -162,7 +162,7 @@ a {
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
 
@@ -175,7 +175,7 @@ footer {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.16;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -184,6 +184,6 @@ footer {
   color: var(--CLOUD, #f4f4fd);
   font-family: Roboto;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.32px;
 }
